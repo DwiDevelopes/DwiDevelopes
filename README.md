@@ -6,8 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
   </a>
 </h1>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🐱 Language Skills 🐱</h2>
+<img src="HTML.jpg">
+<h2 align="center">⚡ Statistic ⚡</h2>
 <br>
 
 <p align=center>
