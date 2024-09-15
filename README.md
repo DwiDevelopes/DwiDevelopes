@@ -1,7 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="programing.png">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
+  </a>
+</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
