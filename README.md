@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
   </a>
 <div align="center">
-<p>
+<p style="font-size:20px;">
 I really like programming and I learned a lot of things and I mastered it and I also received an award from the government thanks to my professional achievements in Canva design.
 </p>
 </div>
