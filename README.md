@@ -5,6 +5,11 @@
    <img src="Programmer.jpg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
   </a>
+<div align="center">
+<p>
+I really like programming and I learned a lot of things and I mastered it and I also received an award from the government thanks to my professional achievements in Canva design.
+</p>
+</div>
 </h1>
 <h2 align="center">🐱 Language Skills 🐱</h2>
 <img src="HTML.jpg">
@@ -31,22 +36,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiDevelopes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **DwiDevelopes/DwiDevelopes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
