@@ -32,6 +32,13 @@
 
 <hr>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **DwiDevelopes/DwiDevelopes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
