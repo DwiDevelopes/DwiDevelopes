@@ -5,7 +5,7 @@
    <img src="Programmer.jpg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
   </a>
-  <h2 align="left">Hi 👋! My name is RoyDevelopes and I'm a Web Development, from Indonesia</h2>
+  <h2 align="left">Hi 👋! My name is DwiDevelopes and I'm a Web Development, from Indonesia</h2>
 
 ###
 
