@@ -50,9 +50,44 @@
 
 ###
 
+###
 <div align="center">
-  <a href="https://opspotify.com/playlist/43hYSzQXqBpge0ytIAjNCt?si=mUoLEcC6Rbi-P64r1diNPQ&pi=a-Q21ydCPfRPaR" alt="Spotify recently played"  />
+  <img height="150" src="neko.gif" style="border-radius:50px;" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DwiDevelopes&"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DwiDevelopes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+###
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kxw76ecqglvlnrxpnn7jriocve" alt="Spotify recently played"  />
+</div>
+
+###
 
 ###
 
