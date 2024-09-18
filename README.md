@@ -279,6 +279,20 @@ loadDataFromLocalstorage();
 I really like programming and I learned a lot of things and I mastered it and I also received an award from the government thanks to my professional achievements in Canva design.
 </p>
 </div>
+<div align="center">
+  <img height="150" src="game-gaming.gif" style="border-radius:50px;" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://portofolio-dwi-bakti-n-dev-liard.vercel.app/playfrom.html"><img src="https://img.shields.io/static/v1?message=Download&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  /></a>
+</div
+<div style="margin:flex;">
+  <img height="150" src="games dwi bakti n dev.svg" style="border-radius:50px;" />
+   <img height="150" src="games dwi bakti n dev.svg" style="border-radius:50px;" />
+   <img height="150" src="games dwi bakti n dev.svg" style="border-radius:50px;" />
+</div>
 </h1>
 <h2 align="center">🐱 Language Skills 🐱</h2>
 <img src="HTML.jpg">
