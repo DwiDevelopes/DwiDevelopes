@@ -293,6 +293,21 @@ I really like programming and I learned a lot of things and I mastered it and I 
    <img height="150" src="games dwi bakti n dev.svg" style="border-radius:50px;" />
    <img height="150" src="games dwi bakti n dev.svg" style="border-radius:50px;" />
 </div>
+
+### 
+
+```javascript
+The cat is sad coz it’s not getting likes
+　　　　　／＞　　フ
+　　　　　| 　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　| | |
+```
+
+
+
 </h1>
 <h2 align="center">🐱 Language Skills 🐱</h2>
 <img src="HTML.jpg">
