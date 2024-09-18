@@ -72,7 +72,11 @@
 </div>
 
 ###
-
+<h3 align="left">🔥   My images Api Key :</h3>
+<div align="center">
+  
+</div>
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -86,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kxw76ecqglvlnrxpnn7jriocve" alt="Spotify recently played"  />
+  <a href="spotify.com"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31kxw76ecqglvlnrxpnn7jriocve" alt="Spotify recently played"  /></a>
 </div>
 
 ###
