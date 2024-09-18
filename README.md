@@ -5,7 +5,7 @@
    <img src="Programmer.jpg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
   </a>
-  <h2 align="left">Hi 👋! My name is RoyDevelopes and I'm a Web Development, from Indonesia</h2>
+  <h2 align="left">Hi 👋! My name is DwiDevelopes and I'm a Web Development, from Indonesia</h2>
 
 ###
 
@@ -58,10 +58,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+  <a href="https://github.com/DwiDevelopes"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  /></a>
+  <a href="https://wa.me/+6289652969323"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+   <a href="https://www.tiktok.com/@royhtml?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  /></a>
+<a href="https://t.me/BangRoy76"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
+</div
 
 ###
 
@@ -70,7 +72,11 @@
 </div>
 
 ###
-
+<h3 align="left">🔥   My images Api Key :</h3>
+<div align="center">
+  
+</div>
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -84,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kxw76ecqglvlnrxpnn7jriocve" alt="Spotify recently played"  />
+  <a href="spotify.com"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31kxw76ecqglvlnrxpnn7jriocve" alt="Spotify recently played"  /></a>
 </div>
 
 ###
