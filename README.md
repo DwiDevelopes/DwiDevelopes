@@ -106,13 +106,21 @@
 #### add( AI Api Key Cuaca Permanent )
 
 ```http
-  2686cbd9ceb0896ba3999b20e8a4406d
+2686cbd9ceb0896ba3999b20e8a4406d
 ```
 
 #### add( AI Api Key Remove BG Permanent )
 
 ```http
-  xQH5KznYiupRrywK5yPcjeyi
+xQH5KznYiupRrywK5yPcjeyi
+```
+
+<img src ="key.png">
+
+#### add( Buy Layanan Api Key Google For Free update Mount )
+
+```http
+AIzaSyANmS4WMnVnPYdaMNOZmlTP3c6Bo0OABV4
 ```
 
 ## Install Termux📲:
