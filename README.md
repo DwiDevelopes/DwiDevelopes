@@ -80,7 +80,40 @@
 
  
 ###
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Games Termux Install Linux/Termux/Ubuntu...  
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> AI API KEY CLOUD...
+#### Get all items
+
+<img src ="apikey.gif" width = "100%" height="100%">
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add( AI Api Key Cuaca Permanent )
+
+```http
+  2686cbd9ceb0896ba3999b20e8a4406d
+```
+
+#### add( AI Api Key Remove BG Permanent )
+
+```http
+  xQH5KznYiupRrywK5yPcjeyi
+```
 
 ## Install Termux📲:
 
