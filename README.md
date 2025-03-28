@@ -332,9 +332,14 @@ The cat is sad coz it’s not getting likes
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiDevelopes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+> Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
+<div align="center">
+    <a href="https://allcontributors.org">
+        <img src="logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
+    </a>
+</div>
 
-<!--
 **DwiDevelopes/DwiDevelopes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
