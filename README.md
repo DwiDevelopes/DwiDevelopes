@@ -80,182 +80,90 @@
 
  
 ###
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> AI Google Api Key Me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Games Termux Install Linux/Termux/Ubuntu...  
 
-```javascript
-const typingForm = document.querySelector(".typing-form");
-const chatContainer = document.querySelector(".chat-list");
-const suggestions = document.querySelectorAll(".suggestion");
-const toggleThemeButton = document.querySelector("#theme-toggle-button");
-const deleteChatButton = document.querySelector("#delete-chat-button");
+## Install Termux📲:
 
-// State variables
-let userMessage = null;
-let isResponseGenerating = false;
+```pkg install git```
+<br></br>
+```pkg install git -y```
+<br>
+<br><br>
+```pkg install```
+<br></br>
+```pkg update```
+<br></br>
+```pkg install git```
+<br></br>
+```pkg install pyhthon```
+<br></br>
+```git clone https://github.com/DwiDevelopes/Game-Termux/```
+<br><br>
+```cd Game-Termux```
+<br><br>
+```chmod +x *```
+<br><br>
+```bash install.sh```
+<br>
+<br>
 
-// API configuration
-const API_KEY = "AIzaSyBoK__v4jCKDWbSETNMFEZvQOL0gJmtwTQ"; // Your API key here
-const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
+## Install Pack Game Dwi bakti Simple (┬┬﹏┬┬)😭:
 
-// Load theme and chat data from local storage on page load
-const loadDataFromLocalstorage = () => {
-  const savedChats = localStorage.getItem("saved-chats");
-  const isLightMode = (localStorage.getItem("themeColor") === "light_mode");
+```pkg install```
+<br></br>
+```pkg update```
+<br>
+<br><br>
+```pkg install git```
+<br></br>
+```git clone https://github.com/DwiDevelopes/Game-Termux.git```
+<br></br>
+```cd Game-Termux```
+<br></br>
+```bash install.sh```
+<br></br>
+```bash games.sh```
+<br>
+<br>
+## Langkah Install yang sangat simple dengan memakai step 😎:
 
-  // Apply the stored theme
-  document.body.classList.toggle("light_mode", isLightMode);
-  toggleThemeButton.innerText = isLightMode ? "dark_mode" : "light_mode";
+<br>Langkah 1 : kalian install _pkg install_ langkah selanjutnya</br>
+<br>Langkah 2 : kalian update terlebih dahulu _pkg update_ langkah selanjutnya</br>
+<br>Langkah 3 : kalian install github terlebih dahulu dengan source _pkg install git_ langkah selanjutnya</br>
+<br>Langkah 4 : kalian masukan domain github saya dengan clone _git clone https://github.com/DwiDevelopes/Game-Termux.git_ langkah selanjutnya</br>
+<br>Langkah 5 : kalian jalankan kaset tersebut untuk memainkan game saya dengan kata perintah _cd Game-Termux_ langkah selanjutnya</br>
+<br>Langkah 6 : kalian install patch game nya dengan memasukan kata pemograman  _bash install.sh_ langkah selanjutnya</br>
+<br>Langkah 7 : kalian install games pkg patch nya dengan kata pemograman _bash games.sh_</br>
+<br>Langkah 8 : Langkah Terakhir kalian memain kan game nya dengan memsukan kata perintah _game dwi bakti 1_ untuk memainkan game tersebut kalian cukup mengikuti kata code [ ]</br>
 
-  // Restore saved chats or clear the chat container
-  chatContainer.innerHTML = savedChats || '';
-  document.body.classList.toggle("hide-header", savedChats);
+## Tutorial Install 🐼💬:
 
-  chatContainer.scrollTo(0, chatContainer.scrollHeight); // Scroll to the bottom
-}
+<b>Visit : https://vt.tiktok.com/ZS2JbgPBJ/</b>
 
-// Create a new message element and return it
-const createMessageElement = (content, ...classes) => {
-  const div = document.createElement("div");
-  div.classList.add("message", ...classes);
-  div.innerHTML = content;
-  return div;
-}
+## instal full pack 🩻:
+<br>
+pkg install && pkg update && pkg install git && pkg install python && pkg install git -y && git clone https://github.com/DwiDevelopes/Game-Termux.git && cd Game-Termux && chmod +x * && bash install.sh && bash games.sh
+</br>
 
-// Show typing effect by displaying words one by one
-const showTypingEffect = (text, textElement, incomingMessageDiv) => {
-  const words = text.split(' ');
-  let currentWordIndex = 0;
+## Run🏃🏻‍♂️:
 
-  const typingInterval = setInterval(() => {
-    // Append each word to the text element with a space
-    textElement.innerText += (currentWordIndex === 0 ? '' : ' ') + words[currentWordIndex++];
-    incomingMessageDiv.querySelector(".icon").classList.add("hide");
+```cd Game-Termux```
+```bash games.sh```
 
-    // If all words are displayed
-    if (currentWordIndex === words.length) {
-      clearInterval(typingInterval);
-      isResponseGenerating = false;
-      incomingMessageDiv.querySelector(".icon").classList.remove("hide");
-      localStorage.setItem("saved-chats", chatContainer.innerHTML); // Save chats to local storage
-    }
-    chatContainer.scrollTo(0, chatContainer.scrollHeight); // Scroll to the bottom
-  }, 75);
-}
+<br>
 
-// Fetch response from the API based on user message
-const generateAPIResponse = async (incomingMessageDiv) => {
-  const textElement = incomingMessageDiv.querySelector(".text"); // Getting text element
+## Information Update Games 2.2❤️‍🔥:
 
-  try {
-    // Send a POST request to the API with the user's message
-    const response = await fetch(API_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ 
-        contents: [{ 
-          role: "user", 
-          parts: [{ text: userMessage }] 
-        }] 
-      }),
-    });
+<b>di update patch kali ini sudah di perbarui ke versi terbaru kalian tinggal update saja dan sekarang sudah menambah games di patch 2.0 untuk kalian mainkan puluhan game hingga ratusan games akan terus update games terbaru termux ayo mainkan sekarang.</b>
 
-    const data = await response.json();
-    if (!response.ok) throw new Error(data.error.message);
+## Update install 😻:
 
-    // Get the API response text and remove asterisks from it
-    const apiResponse = data?.candidates[0].content.parts[0].text.replace(/\*\*(.*?)\*\*/g, '$1');
-    showTypingEffect(apiResponse, textElement, incomingMessageDiv); // Show typing effect
-  } catch (error) { // Handle error
-    isResponseGenerating = false;
-    textElement.innerText = error.message;
-    textElement.parentElement.closest(".message").classList.add("error");
-  } finally {
-    incomingMessageDiv.classList.remove("loading");
-  }
-}
 
-// Show a loading animation while waiting for the API response
-const showLoadingAnimation = () => {
-  const html = `<div class="message-content">
-                  <img class="avatar" src="anim.webp" alt="Gemini avatar">
-                  <p class="text"></p>
-                  <div class="loading-indicator">
-                    <div class="loading-bar"></div>
-                    <div class="loading-bar"></div>
-                    <div class="loading-bar"></div>
-                  </div>
-                </div>
-                <span onClick="copyMessage(this)" class="icon material-symbols-rounded">content_copy</span>`;
+```pkg install git && pkg install python && pkg install git -y && git clone https://github.com/DwiDevelopes/Game-Termux.git && cd Game-Termux && chmod +x * && bash install.sh && bash games.sh```
+<br></br>
+<br>
+<br>
 
-  const incomingMessageDiv = createMessageElement(html, "incoming", "loading");
-  chatContainer.appendChild(incomingMessageDiv);
-
-  chatContainer.scrollTo(0, chatContainer.scrollHeight); // Scroll to the bottom
-  generateAPIResponse(incomingMessageDiv);
-}
-
-// Copy message text to the clipboard
-const copyMessage = (copyButton) => {
-  const messageText = copyButton.parentElement.querySelector(".text").innerText;
-
-  navigator.clipboard.writeText(messageText);
-  copyButton.innerText = "done"; // Show confirmation icon
-  setTimeout(() => copyButton.innerText = "content_copy", 1000); // Revert icon after 1 second
-}
-
-// Handle sending outgoing chat messages
-const handleOutgoingChat = () => {
-  userMessage = typingForm.querySelector(".typing-input").value.trim() || userMessage;
-  if(!userMessage || isResponseGenerating) return; // Exit if there is no message or response is generating
-
-  isResponseGenerating = true;
-
-  const html = `<div class="message-content">
-                  <img class="avatar" src="anim2.webp" alt="User avatar">
-                  <p class="text"></p>
-                </div>`;
-
-  const outgoingMessageDiv = createMessageElement(html, "outgoing");
-  outgoingMessageDiv.querySelector(".text").innerText = userMessage;
-  chatContainer.appendChild(outgoingMessageDiv);
-  
-  typingForm.reset(); // Clear input field
-  document.body.classList.add("hide-header");
-  chatContainer.scrollTo(0, chatContainer.scrollHeight); // Scroll to the bottom
-  setTimeout(showLoadingAnimation, 500); // Show loading animation after a delay
-}
-
-// Toggle between light and dark themes
-toggleThemeButton.addEventListener("click", () => {
-  const isLightMode = document.body.classList.toggle("light_mode");
-  localStorage.setItem("themeColor", isLightMode ? "light_mode" : "dark_mode");
-  toggleThemeButton.innerText = isLightMode ? "dark_mode" : "light_mode";
-});
-
-// Delete all chats from local storage when button is clicked
-deleteChatButton.addEventListener("click", () => {
-  if (confirm("Are you sure you want to delete all the chats?")) {
-    localStorage.removeItem("saved-chats");
-    loadDataFromLocalstorage();
-  }
-});
-
-// Set userMessage and handle outgoing chat when a suggestion is clicked
-suggestions.forEach(suggestion => {
-  suggestion.addEventListener("click", () => {
-    userMessage = suggestion.querySelector(".text").innerText;
-    handleOutgoingChat();
-  });
-});
-
-// Prevent default form submission and handle outgoing chat
-typingForm.addEventListener("submit", (e) => {
-  e.preventDefault(); 
-  handleOutgoingChat();
-});
-
-loadDataFromLocalstorage();
-```
 
 <img src="kawai.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -342,13 +250,17 @@ The cat is sad coz it’s not getting likes
 
 **DwiDevelopes/DwiDevelopes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<center>Here are some ideas to get you started:</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
+
+<center><img src = "contributor.webp" width = "100%" height="100%" style ="border-radius:20px;"></center>
+
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
