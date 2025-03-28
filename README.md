@@ -117,11 +117,29 @@ xQH5KznYiupRrywK5yPcjeyi
 
 <img src ="key.png">
 
-### add( Buy Layanan Api Key Google For Free update Mount )
+### add ( Buy Layanan Api Key AI Google For Free update Mount )
 
 ```http
 AIzaSyANmS4WMnVnPYdaMNOZmlTP3c6Bo0OABV4
 ```
+
+### add ( Api Key Unplash Permanent )
+
+```http
+--- ID Key ---
+729693
+```
+
+```http
+--- Access Key ---
+bNf1fq2p6XENfQnZ6KAne40raJcwkzxFs4DWTvZHuY8
+```
+
+```http
+--- Secret key ---
+aWDb-EzkrKGEpD_00K1oMaEkhuFUUPoXdC_R-MRgNkA
+```
+
 ### Information Api Key AI Cloud Dev Dwi Bakti N
 <p>important information dwi bakti n dev baru buy all the services in api and create cloud and input server in bash date form and input database to mysql to record user data and spend quite a lot in order to grow new technology in the modern era</p>
 
