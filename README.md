@@ -80,7 +80,7 @@
 
  
 ###
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> AI API KEY CLOUD...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> AI API KEY CLOUD...
 #### Get all items
 
 <img src ="apikey.gif" width = "100%" height="100%">
@@ -103,13 +103,13 @@
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add( AI Api Key Cuaca Permanent )
+### add ( AI Api Key Cuaca Permanent )
 
 ```http
 2686cbd9ceb0896ba3999b20e8a4406d
 ```
 
-#### add( AI Api Key Remove BG Permanent )
+### add ( AI Api Key Remove BG Permanent )
 
 ```http
 xQH5KznYiupRrywK5yPcjeyi
@@ -117,18 +117,19 @@ xQH5KznYiupRrywK5yPcjeyi
 
 <img src ="key.png">
 
-#### add( Buy Layanan Api Key Google For Free update Mount )
+### add( Buy Layanan Api Key Google For Free update Mount )
 
 ```http
 AIzaSyANmS4WMnVnPYdaMNOZmlTP3c6Bo0OABV4
 ```
+### Information Api Key AI Cloud Dev Dwi Bakti N
+<p>important information dwi bakti n dev baru buy all the services in api and create cloud and input server in bash date form and input database to mysql to record user data and spend quite a lot in order to grow new technology in the modern era</p>
 
 ## Install Termux📲:
 
 ```pkg install git```
 <br></br>
 ```pkg install git -y```
-<br>
 <br><br>
 ```pkg install```
 <br></br>
@@ -145,16 +146,13 @@ AIzaSyANmS4WMnVnPYdaMNOZmlTP3c6Bo0OABV4
 ```chmod +x *```
 <br><br>
 ```bash install.sh```
-<br>
-<br>
 
 ## Install Pack Game Dwi bakti Simple (┬┬﹏┬┬)😭:
 
 ```pkg install```
 <br></br>
 ```pkg update```
-<br>
-<br><br>
+<br></br>
 ```pkg install git```
 <br></br>
 ```git clone https://github.com/DwiDevelopes/Game-Termux.git```
@@ -164,8 +162,6 @@ AIzaSyANmS4WMnVnPYdaMNOZmlTP3c6Bo0OABV4
 ```bash install.sh```
 <br></br>
 ```bash games.sh```
-<br>
-<br>
 ## Langkah Install yang sangat simple dengan memakai step 😎:
 
 <br>Langkah 1 : kalian install _pkg install_ langkah selanjutnya</br>
@@ -191,8 +187,6 @@ pkg install && pkg update && pkg install git && pkg install python && pkg instal
 ```cd Game-Termux```
 ```bash games.sh```
 
-<br>
-
 ## Information Update Games 2.2❤️‍🔥:
 
 <b>di update patch kali ini sudah di perbarui ke versi terbaru kalian tinggal update saja dan sekarang sudah menambah games di patch 2.0 untuk kalian mainkan puluhan game hingga ratusan games akan terus update games terbaru termux ayo mainkan sekarang.</b>
@@ -202,10 +196,6 @@ pkg install && pkg update && pkg install git && pkg install python && pkg instal
 
 ```pkg install git && pkg install python && pkg install git -y && git clone https://github.com/DwiDevelopes/Game-Termux.git && cd Game-Termux && chmod +x * && bash install.sh && bash games.sh```
 <br></br>
-<br>
-<br>
-
-
 <img src="kawai.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
