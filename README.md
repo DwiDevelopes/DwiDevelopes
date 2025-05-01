@@ -140,6 +140,12 @@ bNf1fq2p6XENfQnZ6KAne40raJcwkzxFs4DWTvZHuY8
 aWDb-EzkrKGEpD_00K1oMaEkhuFUUPoXdC_R-MRgNkA
 ```
 
+### add ( AI Api Key Pixels Permanent )
+
+```http
+LH59shPdj1xO0lolnHPsClH23qsnHE4NjkCFBhKEXvR0CbqwkrXbqBnw
+```
+
 ### Information Api Key AI Cloud Dev Dwi Bakti N
 <p>important information dwi bakti n dev baru buy all the services in api and create cloud and input server in bash date form and input database to mysql to record user data and spend quite a lot in order to grow new technology in the modern era</p>
 
