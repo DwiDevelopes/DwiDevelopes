@@ -10,6 +10,7 @@
 
 <h3 align="center">UI Professional & Digital Design Expert from Indonesia</h3>
 <img src = "Championship.jpg" with = "100%">
+<p>MariaDb Hari Senin</p>
 
 ###
 
