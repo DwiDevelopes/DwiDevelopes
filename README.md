@@ -2,83 +2,115 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="Programmer.jpg">
+    <img src="Programmer.jpg" width="100%">
     <div></div>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dwi+Developes....;Nice+to+meet+you+😎;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dwi+Developes;UI/UX+Designer+;Canva+Specialist;Frontend+Developer;Open+for+Cool+Projects!&center=true&size=30&color=58A6FF&width=550">
   </a>
-  <h2 align="left">Hi 👋! My name is DwiDevelopes and I'm a Canva Profesional, from Indonesia</h2>
+</h1>
 
-###
-
-<div align = "justify">
-  <img src = "Come You Play Game.gif">
-  </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DwiDevelopes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DwiDevelopes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="japanese-animation.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="github-user-contribution.svg" alt="Snake animation" />
-
-###
-
-###
-<div align="center">
-  <img height="150" src="neko.gif" style="border-radius:50px;" />
-</div>
+<h3 align="center">UI Professional & Digital Design Expert from Indonesia</h3>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/DwiDevelopes"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  /></a>
-  <a href="https://wa.me/+6289652969323"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-   <a href="https://www.tiktok.com/@royhtml?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  /></a>
-<a href="https://t.me/BangRoy76"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
-</div
-
-###
-
-<div align = "center"
- <center><img src="@Royhtml.gif"></center>
+  <img src="Designer.gif" width="600">
 </div>
+
+## 🔥 My Services
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DwiDevelopes&"  />
+  
+| Service Category       | Offerings                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| � **UI/UX Design**     | Custom Interfaces • Dashboard Design • Mobile App UI • Website Redesign   |
+| ✨ **Canva Services**  | Professional Templates • Brand Kits • Social Media Designs • Presentations|
+| 🛠 **Development**     | Frontend Development • Responsive Design • HTML/CSS/JS                    |
+| 📊 **Consulting**      | Design Strategy • UX Audits • Brand Identity Development                 |
+
 </div>
 
- 
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,canva,blender" height="40">
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" height="40">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" height="40">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwiDevelopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiDevelopes&theme=radical&hide_border=true">
+  <br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiDevelopes&layout=compact&theme=radical&hide_border=true">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwiDevelopes&theme=radical">
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DwiDevelopes&theme=radical&no-frame=true&row=2&column=4">
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [E-Commerce Dashboard](link) | Modern admin dashboard with analytics | Figma, React, Tailwind |
+| [Canva Template Pack](link) | Professional social media templates | Canva |
+| [Portfolio Website](link) | Custom portfolio design | HTML, CSS, JS |
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiDevelopes&theme=react-dark&hide_border=true&area=true">
+</div>
+
+## 🎨 Design Showcase
+
+<div align="center">
+  <img src="UI-Showcase.gif" width="600">
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://dribbble.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="30">
+  </a>
+  <a href="https://www.behance.net/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="30">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+  </a>
+</div>
+
+## 💰 Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourprofile">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30">
+  </a>
+  <a href="https://ko-fi.com/yourprofile">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DwiDevelopes&label=Profile%20views&color=0e75b6&style=flat" alt="DwiDevelopes">
+</div>
+
 ###
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> AI API KEY CLOUD...
 #### Get all items
