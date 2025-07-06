@@ -84,10 +84,6 @@
 [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
 [![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DwiDevelopes/count.svg" />
-</p>
 
 ## 🏆 GitHub Trophies
 
