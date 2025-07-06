@@ -9,6 +9,7 @@
 </h1>
 
 <h3 align="center">UI Professional & Digital Design Expert from Indonesia</h3>
+<img src = "Championship.jpg" with = "100%">
 
 ###
 
@@ -112,7 +113,7 @@
 ## 🎨 Design Showcase
 
 <div align="center">
-  <img src="UI-Showcase.gif" width="600">
+  <img src="Championship.png" width="600">
 </div>
 
 ## 🤝 Let's Connect
